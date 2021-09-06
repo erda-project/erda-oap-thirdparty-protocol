@@ -8,8 +8,8 @@ import(
 	"fmt"
 	"time"
 	"github.com/apache/thrift/lib/go/thrift"
-	"jaeger"
-	"zipkincore"
+	"github.com/erda-project/oap-plugins-gen-go/jaeger-thrift/jaeger"
+	"github.com/erda-project/oap-plugins-gen-go/jaeger-thrift/zipkincore"
 
 )
 
