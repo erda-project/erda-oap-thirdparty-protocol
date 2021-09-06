@@ -1,0 +1,3 @@
+[submodule ".protocols/jaeger-idl"]
+	path = .protocols/jaeger-idl
+	url = https://github.com/jaegertracing/jaeger-idl.git
