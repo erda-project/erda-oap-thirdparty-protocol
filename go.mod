@@ -1,4 +1,4 @@
-module github.com/erda-project/oap-plugins-gen-go
+module github.com/erda-project/erda-oap-thirdparty-protocol
 
 go 1.16
 
